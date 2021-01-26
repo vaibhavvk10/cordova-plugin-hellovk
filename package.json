@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-hellovk",
+  "version": "1.0.1",
+  "description": "A sample for a new cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-hello",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavvk10/cordova-plugin-hellovk.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "hello",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Vaibhav Koshta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vaibhavvk10/cordova-plugin-hellovk/issues"
+  },
+  "homepage": "https://github.com/vaibhavvk10/cordova-plugin-hellovk#readme",
+  "main": "www/hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
