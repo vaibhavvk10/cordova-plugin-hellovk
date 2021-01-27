@@ -1,6 +1,6 @@
-#import "HWPHello.h"
+#import "Hello.h"
 
-@implementation HWPHello
+@implementation Hello
 
 - (void)greet:(CDVInvokedUrlCommand*)command
 {

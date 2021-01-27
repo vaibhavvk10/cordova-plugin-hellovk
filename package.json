@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-hellovk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A sample for a new cordova plugin",
   "cordova": {
     "id": "cordova-plugin-hellovk",

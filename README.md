@@ -28,7 +28,7 @@ Edit `www/js/index.js` and add the following code inside `onDeviceReady`
         alert("Error calling Hello Plugin");
     }
 
-    hello.greet("World", success, failure);
+    hello.message("World", success, failure);
 ```
 
 Install iOS or Android platform
